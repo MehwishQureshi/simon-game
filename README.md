@@ -21,3 +21,10 @@ A classic memory game built using **HTML**, **CSS**, and **JavaScript**. The goa
 - **HTML** – Page structure
 - **CSS** – Styling and animations
 - **JavaScript** – Game logic, user interaction, and audio control
+
+##  Screenshots
+
+![image](https://github.com/user-attachments/assets/67f95bb2-fd0c-464f-a094-c81c26c2017c)
+![image](https://github.com/user-attachments/assets/670e10ee-8eac-4dc2-9c40-23d25e4091ac)
+![image](https://github.com/user-attachments/assets/2a119542-8eec-4b8e-8383-68020f4e46e0)
+
