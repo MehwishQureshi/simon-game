@@ -1,4 +1,4 @@
-# 🎮 Simon Game
+# 🎮 Cognify
 
 A classic memory game built using **HTML**, **CSS**, and **JavaScript**. The goal is simple — watch the pattern, repeat the sequence, and see how far you can go. Each level adds a new color to the sequence... how long can you keep up?
 
